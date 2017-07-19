@@ -1,0 +1,15 @@
+{
+  "name": "manao/ii",
+  "description": "Integration of instagram",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "MiZGipb",
+      "email": "n.litvinovich@manao.by"
+    }
+  ],
+  "require": {
+    "raiym/instagram-php-scraper": "v0.5.7"
+  }
+}
